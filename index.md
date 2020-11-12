@@ -15,7 +15,6 @@
         <input type="checkbox" checked="checked" name="remember"> Remember me
         </label>
         </div>
-    </div>
 </form>
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://projectemiszero.github.io/Slide-2/" data-size="large" aria-label="Start">Start</a>
