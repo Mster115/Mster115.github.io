@@ -1,15 +1,21 @@
-## Welcome to Mark Sternefeld's Website!
+## EmisZero
 
-### Who am I?
-
-My name is Mark Sternefeld. I grew up in a small town called Montague, New Jersey. I atteneded Pope John XXIII Regional Highschool and ran Track and Field. I enjoy hanging out with friends and seeking out new experiences. When I find the time, I go out and practice my skate tricks or just chillout longboarding.
-
-<img src="https://www.goodfood.com.au/content/dam/images/g/w/s/o/j/y/image.related.wideLandscape.460x259.gxw7qa.png/1503298918510.jpg" width=500 height= 500>
-
-For more details see [RIT SWEN101](http://www.se.rit.edu/~swen-101/00/index.html).
-
-### What I'd Like To Learn
-<ul>
-  <li>How to better my skills</li>
-  <li>Learn how to network with people in the fields</li>
-</ul>  
+### Emissions Zero, Be the Hero.
+<form action="action_page.php" method="post">
+    <div class="imgcontainer">
+        <img src="prof.jpg" width ="70" height = "60" alt="Avatar" class="avatar">
+    </div>
+    <div class="container">
+        <label for="uname"><b>Username</b></label>
+            <input type="text" placeholder="Enter Username:" name="uname" required>
+        <label for="psw"><b>Password</b></label>
+            <input type="password" placeholder="Enter Password:" name="psw" required>
+        <button type="submit">Login</button>
+        <label>
+        <input type="checkbox" checked="checked" name="remember"> Remember me
+        </label>
+        </div>
+    </div>
+</form>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://projectemiszero.github.io/Slide-2/" data-size="large" aria-label="Start">Start</a>
